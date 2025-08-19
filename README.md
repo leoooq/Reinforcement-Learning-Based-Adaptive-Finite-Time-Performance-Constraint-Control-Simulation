@@ -47,8 +47,6 @@ The second-order nonlinear system simulated in this project is described as:
 
 This section presents the key simulation results, demonstrating the controller's effectiveness in tracking the reference trajectory, ensuring error convergence within prescribed bounds, and the adaptation of the neural network weights.
 
-*(Please replace the following image paths with the actual paths to your uploaded images in the `images` folder or your chosen folder.)*
-
 **1. State Tracking Response (x₁ and x₂):**
 This figure displays the time evolution of the system states `x₁` and `x₂`. It shows how `x₁` (the system output) tracks the desired reference trajectory `xᵣ`, and the behavior of the second state `x₂`.
 
